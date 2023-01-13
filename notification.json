@@ -1,0 +1,46 @@
+[
+	{
+		"type": "options",
+		"title": "Quick Lessons",
+		"desc": "Got to the about page and click tutorials",
+		"section": "kivy",
+		"key": "log_level",
+		"options": ["info"]
+	},
+	{
+		"type": "options",
+		"title": "Build Profiles",
+		"desc": "Create contacts and build profiles with Nomineogen and Image Reader",
+		"section": "kivy",
+		"key": "log_level",
+		"options": ["info"]
+	},
+	{
+		"type": "options",
+		"title": "Learn about Easy Hacks",
+		"desc": "Go to the about page to learn about Easy Hacks and TAB Developers",
+		"section": "kivy",
+		"key": "log_level",
+		"options": ["info"]
+	},
+    {
+        "type": "options",
+        "title": "Contact Us",
+        "desc": "Contact us through the contact page and air your views",
+        "section": "kivy",
+	"key": "log_level",
+	"options": ["info"]
+    },
+    {
+        "type": "options",
+        "title": "Select Preference",
+        "desc": "Check settings to select prefereces",
+        "section": "kivy",
+	"key": "log_level",
+	"options": ["info"]
+    },
+    {
+        "type": "title",
+	"title": "To close this window just click outside it"
+}]
+
