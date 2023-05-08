@@ -1,0 +1,3 @@
+# Easy-Hacks
+Easy Hacks is a free data(text) handling android application.
+Easy Hacks is a productivity app designed to simplify the task of extracting emails from documents and lists. With its intuitive user interface and powerful algorithms, Easy Hacks can generate email addresses from names, sort a list of items, and perform a variety of other useful functions. Whether you're a student, professional, or simply looking to streamline your workflow, Easy Hacks is the perfect tool to help you stay organized and efficient. With its cutting-edge technology and user-friendly design, Easy Hacks is sure to become your go-to app for all your productivity needs.
